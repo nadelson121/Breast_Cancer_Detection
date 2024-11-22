@@ -72,7 +72,7 @@ We utilized the **University of Wisconsin Breast Cancer Dataset**, which contain
 ## Performance Metrics  
 | Model                 | Accuracy (%) | Precision | Recall | F1 Score |  
 |-----------------------|-------------|-----------|--------|----------|  
-| Neural Network        | 99.12       | TBD       | TBD    | TBD      |  
+| Neural Network        | 99.12       | 0.96      | 0.97   | 0.97     |  
 | Random Forest         | 99.00       | 0.99      | 1.00   | 0.99     |  
 | XGBoost               | 97.00       | 0.97      | 0.99   | 0.98     |  
 
@@ -126,7 +126,8 @@ Follow these steps to set up and run the project locally:
 Shoutouts to
 1. Salah Mohammed
 2. Abbot Tubeine
-3. Azeezat Akinboro 
+3. Azeezat Akinboro
+4. Alexia Rendon
 
 ## Contributing  
 We welcome contributions! Please follow these steps:  
